@@ -1,4 +1,7 @@
 # hse_hw1_meth
+
+Ссылка на код: https://colab.research.google.com/drive/1f8q550GayvWvzzW3RV7DyIf0-FazO5Re?usp=sharing
+
 a)
 Сводная таблица по количествам ридов 
 
