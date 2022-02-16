@@ -18,11 +18,17 @@ b)
 
 d) M-bias plot
 
-8 Cell
+## 8 Cell
 
 ![](https://github.com/kolbunovaa/images/blob/main/8celBismark%20M-bias%20Read%201.png)
 
 ![](https://github.com/kolbunovaa/images/blob/main/8cellBismark%20M-bias%20Read%202%20(1).png)
+
+## Epiblast
+
+![](https://github.com/kolbunovaa/images/blob/main/epi_Bismark%20M-bias%20Read%201.png)
+
+![](https://github.com/kolbunovaa/images/blob/main/epi_Bismark%20M-bias%20Read%202.png)
 
 e)
 Распределение метилирования
