@@ -16,6 +16,8 @@ b)
 | :--- | :---: | :---: | ---:   |
 |Duplication, % | 18.31  | 2.92  | 9.08  |
 
+bash-скрипт: ! ls *pe.bam | xargs -P 4 -tI{} deduplicate_bismark  --bam  --paired  -o s_{} {}
+
 d) M-bias plot
 
 ## 8 Cell
