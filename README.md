@@ -16,6 +16,14 @@ b)
 | :--- | :---: | :---: | ---:   |
 |Duplication, % | 18.31  | 2.92  | 9.08  |
 
+d) M-bias plot
+
+8 Cell
+
+![](https://github.com/kolbunovaa/images/blob/main/8celBismark%20M-bias%20Read%201.png)
+
+![](https://github.com/kolbunovaa/images/blob/main/8cellBismark%20M-bias%20Read%202%20(1).png)
+
 e)
 Распределение метилирования
 
