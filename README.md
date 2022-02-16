@@ -30,6 +30,12 @@ d) M-bias plot
 
 ![](https://github.com/kolbunovaa/images/blob/main/epi_Bismark%20M-bias%20Read%202%20(1).png)
 
+## ICM
+
+![](https://github.com/kolbunovaa/images/blob/main/icm_Bismark%20M-bias%20Read%201.png)
+
+![](https://github.com/kolbunovaa/images/blob/main/icm_Bismark%20M-bias%20Read%202.png)
+
 e)
 Распределение метилирования
 
