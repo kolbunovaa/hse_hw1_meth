@@ -15,9 +15,9 @@ b)
 
 e)
 Распределение метилирования
-!(https://github.com/kolbunovaa/images/blob/main/8cell.png)
+![](https://github.com/kolbunovaa/images/blob/main/8cell.png)
 
-!(https://github.com/kolbunovaa/images/blob/main/epi.png)
+![](https://github.com/kolbunovaa/images/blob/main/epi.png)
 
-!(https://github.com/kolbunovaa/images/blob/main/icm.png)
+![](https://github.com/kolbunovaa/images/blob/main/icm.png)
 
