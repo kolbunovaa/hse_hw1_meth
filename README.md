@@ -52,6 +52,38 @@ e)
 
 ![](https://github.com/kolbunovaa/images/blob/main/icm.png)
 
+Код:
+```
+import pandas as pd
+
+first = pd.read_csv("s_SRR5836473_1_bismark_bt2_pe.deduplicated.bedGraph", delimiter='\t', skiprows=1, header=None)
+first.head()
+
+second = pd.read_csv("s_SRR3824222_1_bismark_bt2_pe.deduplicated.bedGraph", delimiter='\t', skiprows=1, header=None)
+second.head()
+
+third = pd.read_csv("s_SRR5836475_1_bismark_bt2_pe.deduplicated.bedGraph", delimiter='\t', skiprows=1, header=None)
+third.head()
+```
+```
+import matplotlib.pyplot as plt
+
+plt.figure(figsize=[11, 8])
+plt.title("Распределение метилирования в 8 Cell", fontsize=19)
+plt.hist(first[3], bins=100, density=True)
+plt.show()
+
+plt.figure(figsize=[11, 8])
+plt.title("Распределение метилирования в Epiblast", fontsize=19)
+plt.hist(second[3], bins=100, density=True)
+plt.show()
+
+plt.figure(figsize=[11, 8])
+plt.title("Распределение метилирования в ICM", fontsize=19)
+plt.hist(third[3], bins=100, density=True)
+plt.show()
+```
+
 f)
 Визуализация метилирования и покрытия
 
