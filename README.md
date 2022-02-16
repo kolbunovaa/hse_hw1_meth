@@ -27,5 +27,6 @@ f)
 
 ![](https://github.com/kolbunovaa/images/blob/main/image_cov2.png)
 
+
 ![](https://github.com/kolbunovaa/images/blob/main/image_cov%20(1).png)
 
