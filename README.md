@@ -1,12 +1,17 @@
 # hse_hw1_meth
 
 Ссылка на код: https://colab.research.google.com/drive/1f8q550GayvWvzzW3RV7DyIf0-FazO5Re?usp=sharing
-### FQ-анализ
+### FQ-анализ (выполнен для образца 8 Cell)
 
-|  8 Cell  | Epiblast|
-| :--- | ---: |
-| ![](https://github.com/kolbunovaa/images/blob/main/2022-02-17_00-57-34.png) |     |
-| ![](https://github.com/kolbunovaa/images/blob/main/2022-02-17_00-58-07.png) |     |
+![](https://github.com/kolbunovaa/images/blob/main/2022-02-17_00-57-34.png)
+
+![](https://github.com/kolbunovaa/images/blob/main/2022-02-17_00-58-07.png)
+
+### FQ-анализ для RNA-seq образца из одного из прошлых дз
+
+![](https://github.com/kolbunovaa/images/blob/main/2022-02-17_13-33-25.png)
+
+![](https://github.com/kolbunovaa/images/blob/main/2022-02-17_13-33-50.png)
 
 
 a)
