@@ -1,11 +1,12 @@
 # hse_hw1_meth
 
 Ссылка на код: https://colab.research.google.com/drive/1f8q550GayvWvzzW3RV7DyIf0-FazO5Re?usp=sharing
-### FQ-анализ (выполнен для 8 Cell образца)
+### FQ-анализ
 
-![](https://github.com/kolbunovaa/images/blob/main/2022-02-17_00-57-34.png)
+|  8 Cell   |
+| :--- | ---: |
+| ![](https://github.com/kolbunovaa/images/blob/main/2022-02-17_00-57-34.png) | ![](https://github.com/kolbunovaa/images/blob/main/2022-02-17_00-58-07.png) |
 
-![](https://github.com/kolbunovaa/images/blob/main/2022-02-17_00-58-07.png)
 
 a)
 Сводная таблица по количествам ридов 
