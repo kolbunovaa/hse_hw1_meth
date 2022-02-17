@@ -3,15 +3,10 @@
 Ссылка на код: https://colab.research.google.com/drive/1f8q550GayvWvzzW3RV7DyIf0-FazO5Re?usp=sharing
 ### FQ-анализ (выполнен для образца 8 Cell)
 
-![](https://github.com/kolbunovaa/images/blob/main/2022-02-17_00-57-34.png)
-
-![](https://github.com/kolbunovaa/images/blob/main/2022-02-17_00-58-07.png)
-
-### FQ-анализ для RNA-seq образца 
-
-![](https://github.com/kolbunovaa/images/blob/main/0ea7b38907ea06e66067ebde5a559c37.png)
-
-![](https://github.com/kolbunovaa/images/blob/main/b679ac990ab4f03da0fdb69d76089beb.png)
+|BS seq |DNA seq|
+|:---|---:|
+|![](https://github.com/kolbunovaa/images/blob/main/2022-02-17_00-57-34.png)|![](https://github.com/kolbunovaa/images/blob/main/0ea7b38907ea06e66067ebde5a559c37.png)|
+|![](https://github.com/kolbunovaa/images/blob/main/2022-02-17_00-58-07.png)|![](https://github.com/kolbunovaa/images/blob/main/b679ac990ab4f03da0fdb69d76089beb.png)|
 
 Для секвенирования ДНК наблюдается примерно, с небольшими отклонениями, одинаковое содержание нуклеотидов в комплементарной паре (правда в начале ридов в данном образце есть проблемы), тогда как для бисульфитного секвенирования наблюдается разброс в содержании каждого из нуклеотидов. Так,  уровень содержания A, G приблизительно одинаков, T имеет повышенное содержание, а C - пониженное. Так как FQ-анализ проводился для 8 Cell (для которых уровень метилирования не очень высокий), то картина в целом выглядит логично. Неметилированные цитозины при данном секвенировании превращаются в урацилы (которым комплементарны тимины), метилированные - остаются неизменными. Так как уровень метилирования небольшой, то и уровень неизменных цитозинов будет низким, а количество тиминов возрастет.
 
