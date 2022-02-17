@@ -3,9 +3,10 @@
 Ссылка на код: https://colab.research.google.com/drive/1f8q550GayvWvzzW3RV7DyIf0-FazO5Re?usp=sharing
 ### FQ-анализ
 
-|  8 Cell   |
+|  8 Cell  | Epiblast|
 | :--- | ---: |
-| ![](https://github.com/kolbunovaa/images/blob/main/2022-02-17_00-57-34.png) | ![](https://github.com/kolbunovaa/images/blob/main/2022-02-17_00-58-07.png) |
+| ![](https://github.com/kolbunovaa/images/blob/main/2022-02-17_00-57-34.png) |     |
+| ![](https://github.com/kolbunovaa/images/blob/main/2022-02-17_00-58-07.png) |     |
 
 
 a)
